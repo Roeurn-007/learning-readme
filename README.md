@@ -47,6 +47,7 @@ Unorder list
 - Two
 
     - Other sub list
+---
 
 Order list
 
@@ -55,3 +56,26 @@ Order list
 2. Two
 
 3. Three
+
+### Text style
+
++Blod
+
+**Bload text**
+
++អក្សរត្រេត
+
+*helloword*
+
+~~delete text~~
+
+### Block quote
+
+> Hello word
+
+### Table
+
+| id | name | age |
+|--- | ---- | ----|
+| 01 | Roeurn | 18 |
+| 02 | Jame | 19 |
