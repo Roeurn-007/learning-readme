@@ -15,3 +15,11 @@ Py project is focus on ....
 `pip install`
 
 `composoer install`
+
+### Todo list
+
+- [ ] Home page
+
+- [ ] About page
+
+- [X] Service page
