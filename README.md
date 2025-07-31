@@ -79,3 +79,15 @@ Order list
 |--- | ---- | ----|
 | 01 | Roeurn | 18 |
 | 02 | Jame | 19 |
+
+
+## Code
+
+```python
+for i in range(10):
+    print(i)
+```
+
+```html
+<h1>heading</h1>
+```
